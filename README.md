@@ -1,5 +1,5 @@
-# Instituto Superior Politécnico de Córdoba (ISPC)
+# Higher Polytechnic Institute of Córdoba (ISPC)
 
-Práctico Nº 1
+### Task Nº 1
 
-Creación de un Website con tema a elección implementando HTML y CSS
+Creation of a Website with a theme of your choice implementing HTML and CSS
